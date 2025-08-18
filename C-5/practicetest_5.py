@@ -1,0 +1,10 @@
+dic={}
+name, lang  =input("enter your fav lang and ur name: ").split()
+dic.update({name:lang})
+name, lang  =input("enter your fav lang and ur name: ").split()
+dic.update({name:lang})
+name, lang  =input("enter your fav lang and ur name: ").split()
+dic.update({name:lang})
+name, lang  =input("enter your fav lang and ur name: ").split()
+dic.update({name:lang})
+print(dic)
